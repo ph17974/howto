@@ -11,7 +11,7 @@ Belangrijke opmerking: Deze commando's of toetsencombinaties zijn enkel geschikt
 ## Extra operatoren
 - Verticaal en horizontaal verplaatsen
     - [getal]+[Cursor beweging]
-    - Voorbeeld:
+    - Voorbeelden:
         - 2 regels naar omlaag: 2j
         - 4 regels naar omhoog: 4k
         - 5 karakters naar rechts: 5l
